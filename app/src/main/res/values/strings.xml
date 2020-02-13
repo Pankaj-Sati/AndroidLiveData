@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="action_settings">Settings</string>
+    <string name="event_provider_permission">event_provider_permission</string>
+    <string name="event_add_notiification_title">Event Added</string>
+    <string name="event_add_notiification_text">A new event has been added</string>
+    <string name="event_notification_channel_description">Notifications about the Events</string>
+</resources>

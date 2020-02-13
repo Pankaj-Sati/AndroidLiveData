@@ -1,0 +1,7 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="buttonIconSize">32dp</dimen>
+    <dimen name="commonPadding">10dp</dimen>
+    <dimen name="normalTextSize">16sp</dimen>
+    <dimen name="commonMargin">10dp</dimen>
+</resources>
